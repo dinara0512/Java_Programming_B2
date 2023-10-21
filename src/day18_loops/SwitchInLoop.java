@@ -3,7 +3,7 @@ package day18_loops;
 public class SwitchInLoop {
         public static void main(String[] args) {
 
-            for (int i = 0; i <= 5; i--) {
+            for (int i = 0; i <= 5; i++) {
 
                 switch (i) {
 
@@ -27,6 +27,7 @@ public class SwitchInLoop {
                         break;
                     case 6: // since loop continues until i = 5 --- > i never reached 6. That is why case 6 will never run/reached
                         System.out.println("Six");
+                        break;
                 }
                 System.out.println();
             }
