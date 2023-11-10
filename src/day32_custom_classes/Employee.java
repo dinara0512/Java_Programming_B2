@@ -12,7 +12,7 @@ public class Employee {
         this.jobTitle = jobTitle;
     }
 
-    // create a constructor with four parameters - name, jobTitle, id, salary
+    //// create a constructor with four parameters - name, jobTitle, id, salary
 
 
     public Employee (String name, int id, String jobTitle, double salary) {

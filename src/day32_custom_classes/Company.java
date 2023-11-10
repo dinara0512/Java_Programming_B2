@@ -4,7 +4,7 @@ public class Company {
         public static void main(String[] args) {
             Employee emp1 = new Employee("Alina", "Secret Agent");
             //System.out.println(emp1.name); //
-            //System.out.println(emp1.jobTitle); //
+            //System.out.println(emp1.jobTitle); ////
             System.out.println(emp1);
 
 

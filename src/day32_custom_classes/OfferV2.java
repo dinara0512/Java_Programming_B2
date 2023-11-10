@@ -16,7 +16,7 @@ public class OfferV2 {
     }
 
 
-    //create a constructor with all parameters - company, location, salary, isFullTime, numberOfPTO
+    //create a constructor with all parameters -- company, location, salary, isFullTime, numberOfPTO
     public OfferV2(String company, String location, double salary, boolean isFullTime, int numberOfPTO) {
         this(company, location);
         this.salary = salary;

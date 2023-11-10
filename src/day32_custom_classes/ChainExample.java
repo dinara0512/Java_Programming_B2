@@ -16,7 +16,7 @@ public class ChainExample {
     }
 
     public ChainExample (String str) {
-        this(6); //
+        this(6); ////
         System.out.println("Third");
     }
 

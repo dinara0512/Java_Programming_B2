@@ -13,7 +13,7 @@ public class MyOffers {
         System.out.println();
         System.out.println(o2);
 
-        System.out.println("---------------------------------------------");
+        System.out.println("-----------------------------------------------");
 
         String str = new String("HelloWorld");
 
