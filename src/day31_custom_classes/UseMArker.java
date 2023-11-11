@@ -15,7 +15,7 @@ public class UseMArker {
 //        Marker marker3 = new Marker();
 //        marker3.type = "";
 //        marker3.brand = "";
-//        marker3.color = "";
+//   /////     marker3.color = "";
 
     }
 }
