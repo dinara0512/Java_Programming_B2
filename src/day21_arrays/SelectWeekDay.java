@@ -10,8 +10,8 @@ public class SelectWeekDay {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter a number that represents a week day");
 
-        int userNum = input.nextInt();// 12
-        if(userNum>=1 && userNum<=12) {
+        int userNum = input.nextInt();// 7
+        if(userNum>=1 && userNum<=7) {
         System.out.println(weekDays[userNum - 1]);
 
     } else {
