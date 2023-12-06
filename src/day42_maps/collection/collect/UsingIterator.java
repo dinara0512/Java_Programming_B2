@@ -20,7 +20,7 @@ public class UsingIterator {
         names.add("Maya");
 
         System.out.println(names);
-
+//
         Iterator<String> iterator = names.iterator();
         System.out.println(iterator.next());
         System.out.println(iterator.next());

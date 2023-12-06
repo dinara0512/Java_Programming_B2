@@ -22,7 +22,7 @@ public class RemoveWhileLooping {
          */
 
         System.out.println();
-
+//
         // for each loop -- > this will through the exception ---  > ConcurrentModificationException
         // We cannot chang the size of the ArrayList/Collection while looping through it with foreach loop
         /*

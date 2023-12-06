@@ -40,7 +40,7 @@ public class HasMapObjects {    //ArrayList <String> list = new ArrayList<>();
         System.out.println(map2.containsKey(1));
         System.out.println(map2.containsKey(3));
 
-
+//
         // How would you check if given VALUE is among the VALUES
         System.out.println(map2.containsValue("Five"));
         System.out.println(map2.containsValue("five"));
@@ -48,7 +48,7 @@ public class HasMapObjects {    //ArrayList <String> list = new ArrayList<>();
 
         map2.put(null, null);
         System.out.println(map2);
-
+//
         map2.put(null, "Hello World!"); // If you provide already EXISTING KEY, the new VALUE will be assigned to the EXISTING KEY. Existing KEY's VALUE gets UPDATED
         System.out.println(map2);
 

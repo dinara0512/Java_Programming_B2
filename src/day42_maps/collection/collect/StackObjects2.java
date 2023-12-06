@@ -13,7 +13,7 @@ public class StackObjects2 {
             stack.add(20);
             stack.add(100);
             stack.push(30);
-
+//
 
             System.out.println(stack);
             System.out.println(stack.peek()); // return the element which is at the top

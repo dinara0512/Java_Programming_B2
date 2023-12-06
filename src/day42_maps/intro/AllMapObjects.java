@@ -13,7 +13,7 @@ public class AllMapObjects {
         map.put(null, "nothing");
         System.out.println(map);
 
-
+//
         Map<String, String> linked = new LinkedHashMap<>(); // -insertion order kept, -null KEY is ok
         linked.put("feyruz", "java");
         linked.put("hello", "world");

@@ -20,7 +20,7 @@ public class QueueObjects {
 
             System.out.println(queue);
 
-
+//
             queue.remove(3); // Since there is no Matching object in queue Collection it did not remove
             System.out.println(queue.remove(3)); //Since it also returns the boolean, once there is matching object, it will return true. Otherwise, false
             System.out.println(queue.remove(1)); // It removes the first matching one.
